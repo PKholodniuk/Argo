@@ -64,7 +64,8 @@ namespace Argo
             ClickButtonEnter("auth_login_submit");
 
         }
-        // This methods use for method Login
+
+        /* This methods use for method Login */
 
         private void InputUserData(string Xpath, string value)
         {
